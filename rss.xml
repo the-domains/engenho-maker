@@ -4,15 +4,8 @@
         <description><![CDATA[Ecossistema de Inovação e Educação Maker]]></description>
         <link>https://thegrid.ai/engenho-maker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 17:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 17:20:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/engenho-maker/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6098aee2-9d8a-4a8d-a3ab-7567f268d0fa.jpg">]]></description>
-            <link>https://thegrid.ai/engenho-maker/3e3931a6-98ad-478e-8cae-1786b8ad536b/index.html</link>
-            <guid isPermaLink="false">3e3931a6-98ad-478e-8cae-1786b8ad536b</guid>
-            <pubDate>Mon, 11 Jul 2016 17:20:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ba81636-afc8-46a6-9549-058e8c5e87ec.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=CbFkDM6sT_Q</link>
             <guid isPermaLink="false">fd459d67-b0fb-4b17-91f0-ac5ab14aba71</guid>
             <pubDate>Mon, 11 Jul 2016 10:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O lugar ideal para você desenvolver seus projetos!]]></title>
+            <description><![CDATA[<article><h1>O lugar ideal para você desenvolver seus projetos!</h1><h2>Afinal o que é um Espaço Maker?</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c93cb0-aedd-4162-8a70-3caff9cfaea4.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c93cb0-aedd-4162-8a70-3caff9cfaea4.png</link>
+            <guid isPermaLink="false">f608a872-b2e7-46ee-a6e8-ad151362e88f</guid>
+            <pubDate>Mon, 11 Jul 2016 10:56:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
