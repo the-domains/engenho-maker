@@ -1,0 +1,14 @@
+layout_spectrum: 0.9679723607841879
+typography_spectrum: 0.7143950252793729
+color:
+  brandStrength: 0.6456389650702477
+  lightness: 0.9033330033998936
+  saturation: 0.04285969375632703
+  rhythmicContrast: 0.7741693132556975
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Engenho Maker
